@@ -1,0 +1,36 @@
+name: Build OpenTagViewer APK
+on:
+  push:
+    branches: [ "opentagviewer-android" ]
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Checkout OpenTagViewer 1.1.1
+        uses: actions/checkout@v4
+        with:
+          repository: parawanderer/OpenTagViewer
+          ref: android-app-v1.1.1
+      - name: Set up JDK 17
+        uses: actions/setup-java@v4
+        with:
+          distribution: zulu
+          java-version: '17'
+          cache: gradle
+      - name: Prepare Android build
+        run: |
+          chmod +x ./gradlew
+          echo "sdk.dir=$ANDROID_HOME" > local.properties
+          echo "MAPS_API_KEY=maps_key_default_value" > secrets.properties
+      - name: Build debug APK
+        run: ./gradlew assembleDebug --stacktrace
+      - name: Upload APK
+        uses: actions/upload-artifact@v4
+        with:
+          name: OpenTagViewer-1.1.1-debug-apk
+          path: app/build/outputs/apk/debug/*.apk
+          if-no-files-found: error
