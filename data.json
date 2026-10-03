@@ -1,0 +1,10 @@
+{
+  "checked_at": null,
+  "phrases": ["free spins", "no deposit", "free bonus", "free jackpot", "darmowe spiny", "darmowych spinów", "bez depozytu", "bonus za rejestrację", "bonus bez depozytu"],
+  "sources": [
+    {"name": "AskGamblers — Polska", "url": "https://www.askgamblers.com/casino-bonuses/countries/pl/no-deposit", "status": "pending", "matches": []},
+    {"name": "AskGamblers — bez depozytu", "url": "https://www.askgamblers.com/casino-bonuses/no-deposit", "status": "pending", "matches": []},
+    {"name": "NoDeposit.games", "url": "https://nodeposit.games/", "status": "pending", "matches": []},
+    {"name": "Plotkus — darmowe spiny", "url": "https://plotkus.pl/darmowe-spiny/", "status": "pending", "matches": []}
+  ]
+}
