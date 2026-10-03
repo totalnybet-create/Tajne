@@ -34,3 +34,4 @@ jobs:
           name: OpenTagViewer-1.1.1-debug-apk
           path: app/build/outputs/apk/debug/*.apk
           if-no-files-found: error
+# rebuild 2026-10-03
