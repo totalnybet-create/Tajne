@@ -1,10 +1,76 @@
 {
-  "checked_at": null,
-  "phrases": ["free spins", "no deposit", "free bonus", "free jackpot", "darmowe spiny", "darmowych spinów", "bez depozytu", "bonus za rejestrację", "bonus bez depozytu"],
+  "checked_at": "2026-10-03T03:27:23.161938+00:00",
+  "phrases": [
+    "free spins",
+    "no deposit",
+    "free bonus",
+    "free jackpot",
+    "darmowe spiny",
+    "darmowych spinów",
+    "bez depozytu",
+    "bonus za rejestrację",
+    "bonus bez depozytu"
+  ],
   "sources": [
-    {"name": "AskGamblers — Polska", "url": "https://www.askgamblers.com/casino-bonuses/countries/pl/no-deposit", "status": "pending", "matches": []},
-    {"name": "AskGamblers — bez depozytu", "url": "https://www.askgamblers.com/casino-bonuses/no-deposit", "status": "pending", "matches": []},
-    {"name": "NoDeposit.games", "url": "https://nodeposit.games/", "status": "pending", "matches": []},
-    {"name": "Plotkus — darmowe spiny", "url": "https://plotkus.pl/darmowe-spiny/", "status": "pending", "matches": []}
+    {
+      "name": "AskGamblers — Polska",
+      "url": "https://www.askgamblers.com/casino-bonuses/countries/pl/no-deposit",
+      "status": "error",
+      "matches": [],
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "name": "AskGamblers — bez depozytu",
+      "url": "https://www.askgamblers.com/casino-bonuses/no-deposit",
+      "status": "error",
+      "matches": [],
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "name": "NoDeposit.games",
+      "url": "https://nodeposit.games/",
+      "status": "ok",
+      "matches": [
+        {
+          "phrase": "free spins",
+          "excerpt": "No Deposit Bonuses 2026 — 981 Free Spins & Free Cash Offers | nodeposit.games 🎲 nodeposit .games ☰ No Deposit Bonuses 2026 Free Spins & Free Cash"
+        },
+        {
+          "phrase": "no deposit",
+          "excerpt": "No Deposit Bonuses 2026 — 981 Free Spins & Free Cash Offers | nodeposit.games 🎲 nodeposit .games ☰ No Deposit Bonus"
+        }
+      ]
+    },
+    {
+      "name": "Plotkus — darmowe spiny",
+      "url": "https://plotkus.pl/darmowe-spiny/",
+      "status": "ok",
+      "matches": [
+        {
+          "phrase": "free spins",
+          "excerpt": "z depozytu Bardzo częstą praktyką jest fakt, że kasyna internetowe oferują free spins no deposit na najpopularniejsze sloty. Wszystko dlatego, że takich automatów poszukują gracze. 💎 Starbur"
+        },
+        {
+          "phrase": "no deposit",
+          "excerpt": "Bardzo częstą praktyką jest fakt, że kasyna internetowe oferują free spins no deposit na najpopularniejsze sloty. Wszystko dlatego, że takich automatów poszukują gracze. 💎 Starburst – 5-bębn"
+        },
+        {
+          "phrase": "darmowe spiny",
+          "excerpt": "Darmowe Spiny bez depozytu dla Polaków 2026 Darmowe spiny bez depozytu Chcesz w 2026 roku szybko zdobyć darmowe spiny"
+        },
+        {
+          "phrase": "darmowych spinów",
+          "excerpt": "i bez depozytu 2026 Kasyna Online Bonus Obrót bonusem Zagraj w kasynie 200 darmowych spinów w Chicken Chase Kod: PL200SPINS x5 i 3 dni Otrzymaj bonus 50 darmowych spinów w Diamond of Jungle x55 Ot"
+        },
+        {
+          "phrase": "bez depozytu",
+          "excerpt": "Darmowe Spiny bez depozytu dla Polaków 2026 Darmowe spiny bez depozytu Chcesz w 2026 roku szybko zdobyć darmowe spiny bez depozytu"
+        },
+        {
+          "phrase": "bonus bez depozytu",
+          "excerpt": "twią Ci grę. Nigdy nie twórz wielu kont w tym samym kasynie. Każdy darmowy bonus bez depozytu 2026 jest limitowany do jednej osoby – złamanie tej zasady skutkuje anulowaniem bonusu. Zanim zaczniesz"
+        }
+      ]
+    }
   ]
 }
