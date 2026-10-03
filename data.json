@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-03T03:27:23.161938+00:00",
+  "checked_at": "2026-10-03T03:31:08.051838+00:00",
   "phrases": [
     "free spins",
     "no deposit",
@@ -13,18 +13,66 @@
   ],
   "sources": [
     {
-      "name": "AskGamblers — Polska",
-      "url": "https://www.askgamblers.com/casino-bonuses/countries/pl/no-deposit",
-      "status": "error",
-      "matches": [],
-      "error": "HTTP Error 403: Forbidden"
+      "name": "Polskie Sloty — bez depozytu",
+      "url": "https://pl.polskiesloty.com/40-darmowych-spinow-bez-depozytu/",
+      "status": "ok",
+      "matches": [
+        {
+          "phrase": "free spins",
+          "excerpt": "taki bonus odebrać i na jakich slotach można wykorzystać. Lista bonusów 40 free spins no deposit 4 1 TOPOWY Ice Casino 40 spinów x3 w ciągu 3 dni Kod Brak Ocena Kasyna: 9.6 /10 Otrzymaj bonu"
+        },
+        {
+          "phrase": "no deposit",
+          "excerpt": "odebrać i na jakich slotach można wykorzystać. Lista bonusów 40 free spins no deposit 4 1 TOPOWY Ice Casino 40 spinów x3 w ciągu 3 dni Kod Brak Ocena Kasyna: 9.6 /10 Otrzymaj bonus Recenzja"
+        },
+        {
+          "phrase": "darmowe spiny",
+          "excerpt": "oferują najlepsze bonusy na 40 spinów bez depozytu? Z dostępnych ofert na darmowe spiny wybrałam trzy, które mają najlepsze warunki dla graczy. Poniżej opiszę warunki każdego bonusu od wybrany"
+        },
+        {
+          "phrase": "darmowych spinów",
+          "excerpt": "40 darmowych spinów bez depozytu dla Polaków 2026 Polskie Sloty / 40 darmowych spinów bez depozytu 40 darmowych spinów za re"
+        },
+        {
+          "phrase": "bez depozytu",
+          "excerpt": "40 darmowych spinów bez depozytu dla Polaków 2026 Polskie Sloty / 40 darmowych spinów bez depozytu 40 darmowych spinów za rejestrację Zre"
+        },
+        {
+          "phrase": "bonus bez depozytu",
+          "excerpt": "alizację wagera. Maksymalna wygrana z oferty wynosi 10 euro. 3. Slottica — bonus bez depozytu na 40 darmowych spinów w Lucky Dama Muerta Slottica rozdaje 40 free spins na Lucky Dama Muerta od BGamin"
+        }
+      ]
     },
     {
-      "name": "AskGamblers — bez depozytu",
-      "url": "https://www.askgamblers.com/casino-bonuses/no-deposit",
-      "status": "error",
-      "matches": [],
-      "error": "HTTP Error 403: Forbidden"
+      "name": "Bonusy Kasynowe",
+      "url": "https://www1.bonusy-kasynowe.com/",
+      "status": "ok",
+      "matches": [
+        {
+          "phrase": "free spins",
+          "excerpt": "wpłacania depozytu w Fireball Odbierz bonus Szczegóły Podziel pulę 100 000 free spins z promocją Roman Casino Odbierz bonus Szczegóły Odbierz grę bonusową z Vip środą w Dragon Slots Odbierz"
+        },
+        {
+          "phrase": "darmowe spiny",
+          "excerpt": "Top Bonusy Kasynowe 2026 | Darmowe Spiny | Bez Depozytu Bonusy-Kasynowe .com Najlepsze Bonusy Kasynowe i Promocje - Październik 2026 Zebraliśmy p"
+        },
+        {
+          "phrase": "darmowych spinów",
+          "excerpt": "Winawin Casino (3) WinLegends (6) Winota (9) YoYo (3) Zen (3) Zet (38) 50 Darmowych Spinów za rejęstrację na Lady Wolf Moon Megaways i do 9500pln Odbierz bonus Szczegóły 300 darmowych spinów i do"
+        },
+        {
+          "phrase": "bez depozytu",
+          "excerpt": "Top Bonusy Kasynowe 2026 | Darmowe Spiny | Bez Depozytu Bonusy-Kasynowe .com Najlepsze Bonusy Kasynowe i Promocje - Październik 2026 Zebraliśmy ponad 150 aktual"
+        },
+        {
+          "phrase": "bonus za rejestrację",
+          "excerpt": "bonusy (1396) ---------------- Darmowe Spiny (689) Bonus bez depozytu (75) Bonus za rejestrację (222) Bonusy cashback (170) Punkty lojalnościowe (58) Bonusy reload (514) Poker bonusy (4) Kasyno Wszyst"
+        },
+        {
+          "phrase": "bonus bez depozytu",
+          "excerpt": "------------- Wszystkie bonusy (1396) ---------------- Darmowe Spiny (689) Bonus bez depozytu (75) Bonus za rejestrację (222) Bonusy cashback (170) Punkty lojalnościowe (58) Bonusy reload (514) Poke"
+        }
+      ]
     },
     {
       "name": "NoDeposit.games",
