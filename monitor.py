@@ -8,8 +8,8 @@ from urllib.error import HTTPError, URLError
 from urllib.request import Request, urlopen
 
 SOURCES = [
-    ("AskGamblers — Polska", "https://www.askgamblers.com/casino-bonuses/countries/pl/no-deposit"),
-    ("AskGamblers — bez depozytu", "https://www.askgamblers.com/casino-bonuses/no-deposit"),
+    ("Polskie Sloty — bez depozytu", "https://pl.polskiesloty.com/40-darmowych-spinow-bez-depozytu/"),
+    ("Bonusy Kasynowe", "https://www1.bonusy-kasynowe.com/"),
     ("NoDeposit.games", "https://nodeposit.games/"),
     ("Plotkus — darmowe spiny", "https://plotkus.pl/darmowe-spiny/"),
 ]
