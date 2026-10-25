@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-25T11:30:53.959299+00:00",
+  "checked_at": "2026-10-25T16:20:52.446886+00:00",
   "phrases": [
     "free spins",
     "no deposit",
@@ -46,33 +46,9 @@
     {
       "name": "Bonusy Kasynowe",
       "url": "https://www1.bonusy-kasynowe.com/",
-      "status": "ok",
-      "matches": [
-        {
-          "phrase": "free spins",
-          "excerpt": "wpłacania depozytu w Fireball Odbierz bonus Szczegóły Podziel pulę 100 000 free spins z promocją Roman Casino Odbierz bonus Szczegóły Odbierz grę bonusową z Vip środą w Dragon Slots Odbierz"
-        },
-        {
-          "phrase": "darmowe spiny",
-          "excerpt": "Top Bonusy Kasynowe 2026 | Darmowe Spiny | Bez Depozytu Bonusy-Kasynowe .com Najlepsze Bonusy Kasynowe i Promocje - Październik 2026 Zebraliśmy p"
-        },
-        {
-          "phrase": "darmowych spinów",
-          "excerpt": "Free Spinów za rejestracje na Gates of Olympus Odbierz bonus Szczegóły 50 Darmowych Spinów za rejęstrację na Lady Wolf Moon Megaways i do 9500pln Odbierz bonus Szczegóły 50 Darmowych Spinów za re"
-        },
-        {
-          "phrase": "bez depozytu",
-          "excerpt": "Top Bonusy Kasynowe 2026 | Darmowe Spiny | Bez Depozytu Bonusy-Kasynowe .com Najlepsze Bonusy Kasynowe i Promocje - Październik 2026 Zebraliśmy ponad 150 aktual"
-        },
-        {
-          "phrase": "bonus za rejestrację",
-          "excerpt": "bonusy (1423) ---------------- Darmowe Spiny (706) Bonus bez depozytu (77) Bonus za rejestrację (224) Bonusy cashback (172) Punkty lojalnościowe (58) Bonusy reload (518) Poker bonusy (4) Kasyno Wszyst"
-        },
-        {
-          "phrase": "bonus bez depozytu",
-          "excerpt": "------------- Wszystkie bonusy (1423) ---------------- Darmowe Spiny (706) Bonus bez depozytu (77) Bonus za rejestrację (224) Bonusy cashback (172) Punkty lojalnościowe (58) Bonusy reload (518) Poke"
-        }
-      ]
+      "status": "error",
+      "matches": [],
+      "error": "The read operation timed out"
     },
     {
       "name": "NoDeposit.games",
