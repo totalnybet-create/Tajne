@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-23T23:54:05.021250+00:00",
+  "checked_at": "2026-11-24T09:55:00.392087+00:00",
   "phrases": [
     "free spins",
     "no deposit",
@@ -50,7 +50,7 @@
       "matches": [
         {
           "phrase": "free spins",
-          "excerpt": "skluzywna oferta 3600 zł z 200FS w MafiaCasino Odbierz bonus Szczegóły 100 free spins bez depozytu z Moneymoon Odbierz bonus Szczegóły Zwrot przegranych środków do 4 000 zł z Moneymoon Odbie"
+          "excerpt": "óły Odbierz bonus 30% od depozytu z Brionis Odbierz bonus Szczegóły Do 156 free spins z bonusem dnia w Brionis Odbierz bonus Szczegóły Powitalna oferta do 10 000 zł z 225 FS w Brionis Casino"
         },
         {
           "phrase": "darmowe spiny",
@@ -66,11 +66,11 @@
         },
         {
           "phrase": "bonus za rejestrację",
-          "excerpt": "bonusy (1459) ---------------- Darmowe Spiny (725) Bonus bez depozytu (79) Bonus za rejestrację (231) Bonusy cashback (179) Punkty lojalnościowe (58) Bonusy reload (526) Poker bonusy (4) Kasyno Wszyst"
+          "excerpt": "bonusy (1470) ---------------- Darmowe Spiny (730) Bonus bez depozytu (80) Bonus za rejestrację (231) Bonusy cashback (181) Punkty lojalnościowe (58) Bonusy reload (528) Poker bonusy (4) Kasyno Wszyst"
         },
         {
           "phrase": "bonus bez depozytu",
-          "excerpt": "------------- Wszystkie bonusy (1459) ---------------- Darmowe Spiny (725) Bonus bez depozytu (79) Bonus za rejestrację (231) Bonusy cashback (179) Punkty lojalnościowe (58) Bonusy reload (526) Poke"
+          "excerpt": "------------- Wszystkie bonusy (1470) ---------------- Darmowe Spiny (730) Bonus bez depozytu (80) Bonus za rejestrację (231) Bonusy cashback (181) Punkty lojalnościowe (58) Bonusy reload (528) Poke"
         }
       ]
     },
@@ -92,33 +92,9 @@
     {
       "name": "Plotkus — darmowe spiny",
       "url": "https://plotkus.pl/darmowe-spiny/",
-      "status": "ok",
-      "matches": [
-        {
-          "phrase": "free spins",
-          "excerpt": "sem darmowych spinów bez depozytu Kasyna internetowe najczęściej przyznają free spins no deposit na sloty, które gracze dobrze znają i chętnie wyszukują. Oto tytuły, które pojawiają się w pr"
-        },
-        {
-          "phrase": "no deposit",
-          "excerpt": "ch spinów bez depozytu Kasyna internetowe najczęściej przyznają free spins no deposit na sloty, które gracze dobrze znają i chętnie wyszukują. Oto tytuły, które pojawiają się w promocjach na"
-        },
-        {
-          "phrase": "darmowe spiny",
-          "excerpt": "Darmowe Spiny bez depozytu dla Polaków 2026 Darmowe spiny bez depozytu Chcesz pograć na popularnych slotach, nie wpłac"
-        },
-        {
-          "phrase": "darmowych spinów",
-          "excerpt": "i bez depozytu 2026 Kasyna Online Bonus Obrót bonusem Zagraj w kasynie 200 darmowych spinów w Chicken Chase Kod: PL200SPINS x5 i 3 dni Otrzymaj bonus 50 darmowych spinów w Diamond of Jungle x55 Ot"
-        },
-        {
-          "phrase": "bez depozytu",
-          "excerpt": "Darmowe Spiny bez depozytu dla Polaków 2026 Darmowe spiny bez depozytu Chcesz pograć na popularnych slotach, nie wpłacając ani złot"
-        },
-        {
-          "phrase": "bonus bez depozytu",
-          "excerpt": "awdzonych zasad: Zakładaj tylko jedno konto w danym kasynie. Każdy darmowy bonus bez depozytu 2026 przysługuje jednej osobie, a próba obejścia tej zasady kończy się anulowaniem bonusu i często bloka"
-        }
-      ]
+      "status": "error",
+      "matches": [],
+      "error": "<urlopen error [Errno -2] Name or service not known>"
     }
   ]
 }
